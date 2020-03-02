@@ -1,0 +1,30 @@
+
+h1 {
+    position: relative;
+    width: fit-content;
+    width: -moz-fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Bookman";
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+#content {
+    position: relative;
+    width: 75%;
+    height: fit-content;
+    height: -moz-fit-content;
+    left: 50%;
+    top: 15%;
+    transform: translateX(-50%) ;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+.list {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

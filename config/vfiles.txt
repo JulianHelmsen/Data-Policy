@@ -1,0 +1,5 @@
+# comment
+# syntax: filepath template.html content.html
+
+# example: 
+# project1.html temp.html content.html
